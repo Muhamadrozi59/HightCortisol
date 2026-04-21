@@ -18,4 +18,4 @@
 [Contoh: Accuracy, Confusion Matrix, dll]
 
 # GITHUB
-https://github.com/username/nama-repo
+https://github.com/Muhamadrozi59/HightCortisol.git
