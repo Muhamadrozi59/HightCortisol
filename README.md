@@ -1,5 +1,5 @@
 # KELOMPOK
-[HightCortisol]
+HightCortisol
 
 # ANGGOTA
 1. Syaiful Ilham
