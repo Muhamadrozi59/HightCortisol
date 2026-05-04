@@ -2,7 +2,7 @@
 HightCortisol
 
 # ANGGOTA
-1. Syaiful Ilham
+1. Syaiful Ilham 
 2. Syahrul Giga Wahyudi
 3. Muhammad Bintang Gunawan
 4. Rafli Sidqimudin
